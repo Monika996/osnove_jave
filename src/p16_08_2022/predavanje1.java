@@ -16,7 +16,7 @@ public class predavanje1 {
 		Korisnik r = new Korisnik();
 		r.ime = "Nikola";
 		r.godine = 29;
-		r.email = "moni@gmail"
+		r.email = "moni@gmail";
 	}
 
 }
